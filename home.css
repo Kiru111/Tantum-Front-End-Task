@@ -1,0 +1,43 @@
+.a img{
+    height: 80px;
+    width: 80px;
+}
+.b{
+    margin-top: -60px;
+    margin-left: 120px;
+}
+.c img{
+    float: left;
+    height: 60px;
+    width: 60px;
+    margin-top: -80px;
+    margin-left: 1100px;
+
+}
+.d img{
+    float: left;
+    height: 60px;
+    width: 60px;
+    margin-top: -80px;
+    margin-left: 1200px;
+
+}
+body{
+    background-color: skyblue;
+}
+.e img{
+    height: 300px;
+    width: 300px;
+    margin-top: 100px;
+    margin-left:100px ;
+}
+.f{
+
+    margin-top: -300px;
+    margin-left:500px ;
+
+}
+.g{
+    margin-top: 50px;
+    margin-left: 500px;
+}

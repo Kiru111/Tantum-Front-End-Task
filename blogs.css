@@ -1,0 +1,40 @@
+.a img{
+    height: 80px;
+    width: 80px;
+}
+.b{
+    margin-top: -60px;
+    margin-left: 120px;
+}
+.c img{
+    float: left;
+    height: 60px;
+    width: 60px;
+    margin-top: -80px;
+    margin-left: 1100px;
+
+}
+.d img{
+    float: left;
+    height: 60px;
+    width: 60px;
+    margin-top: -80px;
+    margin-left: 1200px;
+
+}
+.e{
+    margin-top: 100px;
+    margin-left: 300px;
+} 
+.f{
+    margin-top: 100px;
+    margin-left: 300px;  
+}
+.g{
+    margin-top: 100px;
+    margin-left: 300px;   
+}
+.i{
+    margin-top: 100px;
+    margin-left: 300px;   
+} 
